@@ -1,6 +1,9 @@
 # mvp_machine_learning
 
-Projeto de Análise de Dados e Modelagem Preditiva
+Projeto de Análise de Dados e Modelagem Preditiva elaborado para a matéria de Machine Learning & Analytics.
+
+Para executar basta acessar o arquivo MVP_MachineLearning_LeonardoFPiato.ipynb
+
 Este projeto envolve a análise de dados e modelagem preditiva usando vários algoritmos de machine learning para prever eventos de morte com base em um conjunto de dados de saúde.
 
 Visão Geral
